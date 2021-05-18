@@ -1,0 +1,49 @@
+.head1 {
+  font-size: 30px;
+  color: rgb(69, 119, 36);
+  text-align: center;
+  background-color: rgb(83, 231, 172);
+}
+
+body {
+  background-color: #aaebeb;
+}
+
+.image1 {
+  width: 1000px;
+  max-height: auto;
+  background-size: 100% 100%;
+  margin-left: 10px;
+}
+
+.flex11 {
+  display: flex;
+}
+.speed_velocity {
+  width: 800px;
+}
+
+.olol {
+  color: rgb(37, 35, 161);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+}
+
+a {
+  text-decoration: underline;
+  color: rgb(51, 66, 155);
+}
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(111, 194, 162);
+  color: white;
+  margin-top: 10px;
+}
